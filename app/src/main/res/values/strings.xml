@@ -12,4 +12,7 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="txt_portofolio">Portofolio</string>
     <string name="txt_documentation_link">Documentation Link</string>
+    <string name="txt_android_app">50 Android App</string>
+    <string name="txt_flutter_app">50 Flutter App</string>
+    <string name="txt_career">Career</string>
 </resources>
